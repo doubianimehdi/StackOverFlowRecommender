@@ -19,3 +19,4 @@ pandas==1.0.1
 pandas-profiling==2.3.0
 gunicorn
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz
+nltk

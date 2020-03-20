@@ -10,7 +10,6 @@ dash-renderer==1.2.4
 dash-table==4.6.0
 download==0.3.4
 dython==0.3.0
-https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.0.0/en_core_web_sm-2.0.0.tar.gz
 Flask==1.1.1
 Flask-Compress==1.4.0
 gensim==3.8.1

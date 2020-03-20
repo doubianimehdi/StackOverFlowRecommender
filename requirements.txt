@@ -209,4 +209,3 @@ wrapt==1.11.2
 xgboost==0.90
 yellowbrick==1.0.1
 zipp==0.6.0
-requests

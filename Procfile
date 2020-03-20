@@ -1,1 +1,1 @@
-web: gunicorn app:server --timeout 300 --optimize_for_size
+web: gunicorn app:server --timeout 300 --max-requests 1200 -preload

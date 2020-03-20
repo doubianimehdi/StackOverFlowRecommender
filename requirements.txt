@@ -13,11 +13,9 @@ dython==0.3.0
 Flask==1.1.1
 Flask-Compress==1.4.0
 gensim==3.8.1
-nltk==3.4.5
 numpy==1.17.0
 packaging==19.1
 pactools==0.2.0b0
 pandas==1.0.1
 pandas-profiling==2.3.0
 gunicorn
-spacy==2.2.3

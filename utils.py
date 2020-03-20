@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 import pickle 
-import re, spacy, nltk
+import re, nltk
 from bs4 import BeautifulSoup
 from nltk.corpus import stopwords
 from string import punctuation

@@ -31,7 +31,7 @@ app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 server = app.server
 
 app.layout = html.Div(children=[
-    html.H2("Recommandation de tags StackOverFlow pour une question : Mode d'emploi : Allez sur stackoverflow, choissisez une question avec des tags connus, copiez le titre de la question et le corps et appuyez sur SUBMIT"),
+    html.H2("Recommandation de tags StackOverFlow pour une question : Mode d'emploi : Allez sur stackoverflow, choisissez une question avec des tags connus, copiez le titre de la question et le corps et appuyez sur SUBMIT"),
     html.Div(dcc.Textarea(id='input_textori',
                        style={'width': '800px'},
                        placeholder='Saisir une question'), 

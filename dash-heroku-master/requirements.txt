@@ -104,7 +104,7 @@ MarkupSafe==1.1.1
 matplotlib==3.1.2
 mccabe==0.6.1
 missingno==0.4.2
-mistune==0.8.4
+mistune==2.0.3
 mlopt==1.0.1
 mlxtend==0.17.1
 mock==3.0.5
